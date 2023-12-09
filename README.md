@@ -17,17 +17,26 @@
 
 <h4>Technical Skills:<h4/>
 - Web testing (functional and non-functional)
+  
 - Mobile app testing (Android and iOS)
+  
 - API testing
+  
 - Test case creation and execution
+  
 - Test automation tools: Selenium WebDriver
+  
 - Defect tracking systems: Jira, Bugzilla
 
 <h4/>Soft Skills:<h4/>
 - Excellent communication and interpersonal skills
+  
 - Strong analytical and problem-solving skills
+  
 - Attention to detail and ability to work independently
+  
 - Time management and organizational skills
+  
 - Team player and collaborative spirit
 
 
