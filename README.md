@@ -13,6 +13,24 @@
 
 - ⚡ Fun fact **I'm stays updated on the latest trends and innovations. Their tech-savvy mindset allows them to adapt quickly to new tools and platforms. Also I'm a perpetual learner. They believe in the power of continuous education and embrace challenges as opportunities for personal and professional growth.**
 
+<h2>Skills<h2/>
+
+<h1>Technical Skills:<h1/>
+Web testing (functional and non-functional)
+Mobile app testing (Android and iOS)
+API testing
+Test case creation and execution
+Test automation tools: Selenium WebDriver
+Defect tracking systems: Jira, Bugzilla
+
+<h1/>Soft Skills:<h1/>
+Excellent communication and interpersonal skills
+Strong analytical and problem-solving skills
+Attention to detail and ability to work independently
+Time management and organizational skills
+Team player and collaborative spirit
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rimazkhannaleer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimazkhannaleer" height="30" width="40" /></a>
